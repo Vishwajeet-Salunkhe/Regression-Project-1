@@ -20,4 +20,4 @@ This Project Includes
 
 6)Regression model
 
-6)All the results of the model are in Output file.
+6)All the results of the model are in Output file. Start running this project by executing Regression.py file.
